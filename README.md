@@ -22,7 +22,7 @@ Here there are some of the results of the analysis but you can find more on the 
     <img src="images/hdbscan-clustering.png">
 </p>
 
-### Clustering Model Comparison
+### Clustering Model Silhouette Comparison
 <p align="center">
     <img src="images/clustering-model-comparison.png">
 </p>
